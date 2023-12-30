@@ -30,6 +30,12 @@ Este proyecto está diseñado para extraer información relacionada con los prec
     go run main.go
   ```
 
+## Ejemplo de respuesta:
+
+  ```bash
+    {"usd_price":" 35,95930000 ","eur_price":" 39,81665411 ","value_date":"Martes, 02 Enero  2024"}
+  ```
+
 ## Configuración
 
 El programa no requiere configuración adicional. Sin embargo, asegúrate de tener una conexión a Internet estable antes de ejecutarlo.
@@ -40,4 +46,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar o ampliar la funcionalidad
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT.  
